@@ -281,7 +281,7 @@
                   "isCellVisible": true,
                   "isCellEditable": true,
                   "isDerived": false,
-                  "label": "status",
+                  "label": "状态",
                   "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"status\"]))}}",
                   "validation": {},
                   "sticky": "",
