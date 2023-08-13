@@ -1,0 +1,1 @@
+SELECT * FROM sys_role_menu ORDER BY role_id;

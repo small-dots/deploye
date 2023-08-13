@@ -1,0 +1,1 @@
+SELECT * FROM sys_role_menu where 'role_id'={{appsmith.store.roleId}} ORDER BY 'role_id';

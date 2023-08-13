@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "addRoleByFuns",
+    "pageId": "角色管理 3",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "角色管理 3_addRoleByFuns",
+  "deleted": false,
+  "gitSyncId": "64c4fceca934506f2fd1bbe6_64c90599a934506f2fd1bc51"
+}

@@ -1,0 +1,6 @@
+{
+	roleKey:{{roleKey.text}},
+	roleName:{{roleName.text}},
+	roleSort:{{roleSort.text}},
+	status:{{roleStatus.selectedOptionValue}}
+}
